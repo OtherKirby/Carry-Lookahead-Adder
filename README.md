@@ -16,11 +16,11 @@ A simulation file of a fast 4 bit adder, with half adder, and CLA logic block.
 
 
 ## Steps to implement a CLA
-1. Follow the formula C<sub>i+1</sub> = G<sub>i</sub> + (P<sub>i</sub> + C<sub>i</sub>); where C is the carry bit, G is the generate, and P is the propogate.
-2. Substitute this formula in for the same number of times as the amount of bits you will be adding.
-_-(4 bit CLA will have a logic block with 4 outputs, C<sub>1</sub>, C<sub>2</sub> C<sub>3</sub>, C<sub>4</sub>.)
+1. Follow the formula > **C<sub>i+1</sub> = G<sub>i</sub> + (P<sub>i</sub> + C<sub>i</sub>)**; where C is the carry bit, G is the generate, and P is the propogate.
+2. Substitute this formula in for the same number of times as the amount of bits you will be adding.<br/>
+_-(4 bit CLA will have a logic block with 4 outputs, C<sub>1</sub>, C<sub>2</sub> C<sub>3</sub>, C<sub>4</sub>.)<br/>
 -(NO C<sub>0</sub> because that would call for i = -1, which is impossible)_
-3. Substitute the previous C value in each formula.
+3. Substitute the previous C value in each formula.<br/>
 _- (Substitute C<sub>1</sub> into C<sub>2</sub>, C<sub>2</sub> into C<sub>3</sub>, etc...)_
 
 ## Other Comments
