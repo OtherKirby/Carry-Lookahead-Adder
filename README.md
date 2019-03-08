@@ -4,7 +4,7 @@ A simulation file of a fast 4 bit adder, with half adder, and CLA logic block.
 ## How to open
 1. Download LogiSim from SourceForge: https://sourceforge.net/projects/circuit/
 2. Save this .circ file to a folder on your computer.
-3. Under **File** in LogiSim, click **Open** and find the path to the .circ file and open it.
+3. Under **File** in Logisim, click **Open** and find the path to the .circ file and open it.
 
 ## Roadmap
 - [ ] Fix Carry In on main circuit.
