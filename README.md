@@ -7,7 +7,7 @@ A simulation file of a fast 4 bit adder, with half adder, and CLA logic block.
 3. Under **File** in Logisim, click **Open** and find the path to the .circ file and open it.
 
 ## Roadmap
-- **[ ] Fix arithmetic inconsistencies on main circuit.**
+- [ ] Fix arithmetic inconsistencies on main circuit.
 - [ ] Edit circuit appearance to match general CLA shape.
 - [ ] Explain steps more thoroughly in the .circ file
 - [ ] Label gates, I/O more effectively.
