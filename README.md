@@ -2,7 +2,7 @@
 A simulation file of a fast 4 bit adder, with half adder, and CLA logic block.
 
 ## How to open
-1. Download Logisim Evolution from their [GitHub Page] (https://github.com/reds-heig/logisim-evolution)
+1. Download **Logisim Evolution** from their [GitHub Page](https://github.com/reds-heig/logisim-evolution)
 2. Save Carry-Lookahead-Adder.circ to a folder on your computer.
 3. Under **File** in Logisim Evolution, click **Open** and find the path to the .circ file and open it.
 
@@ -27,3 +27,4 @@ _- (Substitute C<sub>1</sub> into C<sub>2</sub>, C<sub>2</sub> into C<sub>3</sub
 - See the [Wikipedia Page](https://en.wikipedia.org/wiki/Carry-lookahead_adder) for more information on this adder.
 - I found it easier to implement my CLA using **individual** I/O bits rather than a multibit I/O for the 
 sake of demonstration
+- **IT IS IMPORTANT TO USE LOGISIM EVOLUTION!!!**. I personally prefer this version of the program for its more cohesive UI. While it is possible to load the circuit in vanilla Logisim, there will 100% be errors and lost lines from the conversion. If you already know how a CLA works and want to reconvert it, feel free, but for students who need a schematic in front of them in order to know how it works, just download Evolution. It's better in every way unless you're planning on making a full fledged computer in the program. 
