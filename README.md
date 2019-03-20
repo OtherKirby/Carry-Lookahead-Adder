@@ -11,7 +11,7 @@ A simulation file of a fast 4 bit adder, with half adder, and CLA logic block.
 - [x] Edit circuit appearance to match general CLA shape.
 - [ ] Explain steps more thoroughly in the .circ file
 - [x] Label gates, I/O more effectively.
-- [ ] Upload image of finished schematic for quick reference.<br/>
+- [x] Upload image of finished schematic for quick reference.<br/>
 - [x] Implement 7 segment decimal display for easier I/O reading
 
 
