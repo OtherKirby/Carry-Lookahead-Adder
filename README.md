@@ -2,15 +2,15 @@
 A simulation file of a fast 4 bit adder, with half adder, and CLA logic block.
 
 ## How to open
-1. Download Logisim from SourceForge: https://sourceforge.net/projects/circuit/
+1. Download Logisim Evolution from their [GitHub Page] (https://github.com/reds-heig/logisim-evolution)
 2. Save Carry-Lookahead-Adder.circ to a folder on your computer.
-3. Under **File** in Logisim, click **Open** and find the path to the .circ file and open it.
+3. Under **File** in Logisim Evolution, click **Open** and find the path to the .circ file and open it.
 
 ## Roadmap
-- [ ] Fix arithmetic inconsistencies on main circuit.
-- [ ] Edit circuit appearance to match general CLA shape.
+- [x] Fix arithmetic inconsistencies on main circuit.
+- [x] Edit circuit appearance to match general CLA shape.
 - [ ] Explain steps more thoroughly in the .circ file
-- [ ] Label gates, I/O more effectively.
+- [x] Label gates, I/O more effectively.
 - [ ] Upload image of finished schematic for quick reference.<br/>
 ~~- [ ] Implement 7 segment decimal display for easier I/O reading~~
 
