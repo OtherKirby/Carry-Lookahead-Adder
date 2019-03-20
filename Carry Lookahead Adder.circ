@@ -12,6 +12,7 @@ This file is intended to be loaded by Logisim-evolution (https://github.com/reds
       <a name="valign" val="base"/>
     </tool>
   </lib>
+  <lib desc="#BFH-Praktika" name="4"/>
   <main name="CLA"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
@@ -51,68 +52,115 @@ This file is intended to be loaded by Logisim-evolution (https://github.com/reds
     <a name="clabelfont" val="SansSerif bold 16"/>
     <a name="circuitnamedbox" val="true"/>
     <a name="circuitvhdlpath" val=""/>
-    <wire from="(410,230)" to="(470,230)"/>
-    <wire from="(410,150)" to="(470,150)"/>
+    <wire from="(90,130)" to="(280,130)"/>
+    <wire from="(100,150)" to="(280,150)"/>
+    <wire from="(500,460)" to="(500,470)"/>
+    <wire from="(450,410)" to="(450,430)"/>
+    <wire from="(650,490)" to="(650,520)"/>
+    <wire from="(110,170)" to="(280,170)"/>
+    <wire from="(850,90)" to="(850,110)"/>
+    <wire from="(850,110)" to="(850,260)"/>
+    <wire from="(820,90)" to="(820,170)"/>
+    <wire from="(830,260)" to="(850,260)"/>
+    <wire from="(120,190)" to="(280,190)"/>
+    <wire from="(80,60)" to="(80,220)"/>
+    <wire from="(190,90)" to="(190,250)"/>
+    <wire from="(80,60)" to="(110,60)"/>
+    <wire from="(210,60)" to="(210,290)"/>
+    <wire from="(260,410)" to="(280,410)"/>
+    <wire from="(90,90)" to="(90,130)"/>
+    <wire from="(590,210)" to="(620,210)"/>
+    <wire from="(590,130)" to="(620,130)"/>
+    <wire from="(590,170)" to="(620,170)"/>
+    <wire from="(590,250)" to="(620,250)"/>
+    <wire from="(610,430)" to="(640,430)"/>
+    <wire from="(740,150)" to="(830,150)"/>
+    <wire from="(190,60)" to="(210,60)"/>
+    <wire from="(50,50)" to="(50,110)"/>
+    <wire from="(650,490)" to="(660,490)"/>
+    <wire from="(590,270)" to="(600,270)"/>
+    <wire from="(690,460)" to="(690,470)"/>
     <wire from="(410,250)" to="(470,250)"/>
     <wire from="(410,170)" to="(470,170)"/>
-    <wire from="(410,190)" to="(470,190)"/>
-    <wire from="(410,270)" to="(470,270)"/>
     <wire from="(410,130)" to="(470,130)"/>
     <wire from="(410,210)" to="(470,210)"/>
-    <wire from="(90,130)" to="(280,130)"/>
-    <wire from="(200,70)" to="(200,270)"/>
-    <wire from="(600,300)" to="(790,300)"/>
-    <wire from="(100,150)" to="(280,150)"/>
-    <wire from="(170,70)" to="(170,210)"/>
+    <wire from="(230,440)" to="(230,450)"/>
+    <wire from="(240,370)" to="(240,380)"/>
+    <wire from="(170,220)" to="(170,490)"/>
+    <wire from="(180,90)" to="(180,230)"/>
+    <wire from="(330,460)" to="(330,470)"/>
     <wire from="(170,210)" to="(280,210)"/>
-    <wire from="(100,70)" to="(100,150)"/>
-    <wire from="(110,170)" to="(280,170)"/>
-    <wire from="(600,270)" to="(600,300)"/>
-    <wire from="(740,130)" to="(840,130)"/>
-    <wire from="(740,110)" to="(850,110)"/>
-    <wire from="(830,70)" to="(830,150)"/>
+    <wire from="(280,410)" to="(280,430)"/>
+    <wire from="(840,50)" to="(840,70)"/>
+    <wire from="(190,450)" to="(230,450)"/>
+    <wire from="(830,150)" to="(830,230)"/>
     <wire from="(50,110)" to="(470,110)"/>
     <wire from="(180,230)" to="(280,230)"/>
-    <wire from="(120,190)" to="(280,190)"/>
-    <wire from="(180,70)" to="(180,230)"/>
-    <wire from="(850,70)" to="(850,110)"/>
-    <wire from="(110,70)" to="(110,170)"/>
+    <wire from="(180,290)" to="(210,290)"/>
+    <wire from="(840,90)" to="(840,130)"/>
     <wire from="(190,250)" to="(280,250)"/>
-    <wire from="(820,70)" to="(820,170)"/>
+    <wire from="(80,220)" to="(170,220)"/>
+    <wire from="(450,410)" to="(470,410)"/>
+    <wire from="(180,520)" to="(460,520)"/>
+    <wire from="(790,50)" to="(790,300)"/>
+    <wire from="(200,270)" to="(280,270)"/>
+    <wire from="(160,230)" to="(160,410)"/>
+    <wire from="(170,90)" to="(170,210)"/>
+    <wire from="(740,170)" to="(820,170)"/>
+    <wire from="(560,460)" to="(560,470)"/>
+    <wire from="(190,50)" to="(190,60)"/>
+    <wire from="(600,300)" to="(790,300)"/>
+    <wire from="(110,50)" to="(110,60)"/>
+    <wire from="(190,370)" to="(240,370)"/>
+    <wire from="(450,390)" to="(450,410)"/>
+    <wire from="(740,110)" to="(850,110)"/>
+    <wire from="(840,130)" to="(840,240)"/>
+    <wire from="(180,290)" to="(180,520)"/>
+    <wire from="(120,90)" to="(120,190)"/>
+    <wire from="(280,410)" to="(300,410)"/>
     <wire from="(590,110)" to="(620,110)"/>
     <wire from="(590,150)" to="(620,150)"/>
     <wire from="(590,230)" to="(620,230)"/>
-    <wire from="(590,130)" to="(620,130)"/>
-    <wire from="(590,210)" to="(620,210)"/>
     <wire from="(590,190)" to="(620,190)"/>
-    <wire from="(590,170)" to="(620,170)"/>
-    <wire from="(590,250)" to="(620,250)"/>
-    <wire from="(740,150)" to="(830,150)"/>
-    <wire from="(840,70)" to="(840,130)"/>
-    <wire from="(790,50)" to="(790,300)"/>
-    <wire from="(200,270)" to="(280,270)"/>
-    <wire from="(190,70)" to="(190,250)"/>
-    <wire from="(120,70)" to="(120,190)"/>
-    <wire from="(740,170)" to="(820,170)"/>
-    <wire from="(50,50)" to="(50,110)"/>
-    <wire from="(90,70)" to="(90,130)"/>
-    <wire from="(590,270)" to="(600,270)"/>
+    <wire from="(610,410)" to="(640,410)"/>
+    <wire from="(190,410)" to="(190,450)"/>
+    <wire from="(190,370)" to="(190,410)"/>
+    <wire from="(830,90)" to="(830,150)"/>
+    <wire from="(820,240)" to="(820,300)"/>
+    <wire from="(170,490)" to="(300,490)"/>
+    <wire from="(750,460)" to="(750,470)"/>
+    <wire from="(410,230)" to="(470,230)"/>
+    <wire from="(410,150)" to="(470,150)"/>
+    <wire from="(410,190)" to="(470,190)"/>
+    <wire from="(410,270)" to="(470,270)"/>
+    <wire from="(840,320)" to="(840,520)"/>
+    <wire from="(190,60)" to="(190,70)"/>
+    <wire from="(650,520)" to="(840,520)"/>
+    <wire from="(810,230)" to="(810,300)"/>
+    <wire from="(110,60)" to="(110,70)"/>
+    <wire from="(390,460)" to="(390,470)"/>
+    <wire from="(280,390)" to="(280,410)"/>
+    <wire from="(110,90)" to="(110,170)"/>
+    <wire from="(50,230)" to="(160,230)"/>
+    <wire from="(600,270)" to="(600,300)"/>
+    <wire from="(740,130)" to="(840,130)"/>
+    <wire from="(460,490)" to="(460,520)"/>
+    <wire from="(800,220)" to="(800,300)"/>
+    <wire from="(800,220)" to="(820,220)"/>
+    <wire from="(810,230)" to="(830,230)"/>
+    <wire from="(820,240)" to="(840,240)"/>
+    <wire from="(160,410)" to="(190,410)"/>
+    <wire from="(830,260)" to="(830,300)"/>
+    <wire from="(430,410)" to="(450,410)"/>
+    <wire from="(460,490)" to="(470,490)"/>
+    <wire from="(200,90)" to="(200,270)"/>
+    <wire from="(50,110)" to="(50,230)"/>
+    <wire from="(100,90)" to="(100,150)"/>
+    <wire from="(820,170)" to="(820,220)"/>
     <comp lib="0" loc="(190,50)" name="Pin">
       <a name="facing" val="south"/>
       <a name="width" val="4"/>
       <a name="label" val="B"/>
-    </comp>
-    <comp lib="0" loc="(110,50)" name="Splitter">
-      <a name="facing" val="south"/>
-      <a name="fanout" val="4"/>
-      <a name="incoming" val="4"/>
-      <a name="appear" val="center"/>
-    </comp>
-    <comp lib="0" loc="(190,50)" name="Splitter">
-      <a name="facing" val="south"/>
-      <a name="fanout" val="4"/>
-      <a name="incoming" val="4"/>
-      <a name="appear" val="center"/>
     </comp>
     <comp lib="0" loc="(110,50)" name="Pin">
       <a name="facing" val="south"/>
@@ -126,12 +174,6 @@ This file is intended to be loaded by Logisim-evolution (https://github.com/reds
     <comp loc="(410,130)" name="PG_GENERATOR"/>
     <comp loc="(590,110)" name="LOGIC_BLOCK"/>
     <comp loc="(740,110)" name="ADDER_BLOCK"/>
-    <comp lib="0" loc="(840,50)" name="Splitter">
-      <a name="facing" val="south"/>
-      <a name="fanout" val="4"/>
-      <a name="incoming" val="4"/>
-      <a name="appear" val="center"/>
-    </comp>
     <comp lib="0" loc="(840,50)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
@@ -143,6 +185,59 @@ This file is intended to be loaded by Logisim-evolution (https://github.com/reds
       <a name="output" val="true"/>
       <a name="label" val="Cout"/>
     </comp>
+    <comp lib="0" loc="(110,70)" name="Splitter">
+      <a name="facing" val="south"/>
+      <a name="fanout" val="4"/>
+      <a name="incoming" val="4"/>
+      <a name="appear" val="center"/>
+    </comp>
+    <comp lib="0" loc="(190,70)" name="Splitter">
+      <a name="facing" val="south"/>
+      <a name="fanout" val="4"/>
+      <a name="incoming" val="4"/>
+      <a name="appear" val="center"/>
+    </comp>
+    <comp lib="4" loc="(490,380)" name="BCD_to_7_Segment_decoder"/>
+    <comp lib="2" loc="(550,380)" name="7-Segment Display"/>
+    <comp lib="4" loc="(320,380)" name="BCD_to_7_Segment_decoder"/>
+    <comp lib="4" loc="(500,490)" name="Binairy_to_BCD_converter">
+      <a name="binvalue" val="4"/>
+    </comp>
+    <comp lib="4" loc="(330,490)" name="Binairy_to_BCD_converter">
+      <a name="binvalue" val="4"/>
+    </comp>
+    <comp lib="2" loc="(490,380)" name="7-Segment Display"/>
+    <comp lib="2" loc="(380,380)" name="7-Segment Display">
+      <a name="labelvisible" val="true"/>
+    </comp>
+    <comp lib="2" loc="(320,380)" name="7-Segment Display">
+      <a name="labelvisible" val="true"/>
+    </comp>
+    <comp lib="4" loc="(380,380)" name="BCD_to_7_Segment_decoder"/>
+    <comp lib="4" loc="(550,380)" name="BCD_to_7_Segment_decoder"/>
+    <comp lib="0" loc="(840,70)" name="Splitter">
+      <a name="facing" val="south"/>
+      <a name="fanout" val="4"/>
+      <a name="incoming" val="4"/>
+      <a name="appear" val="center"/>
+    </comp>
+    <comp lib="0" loc="(840,320)" name="Splitter">
+      <a name="facing" val="north"/>
+      <a name="fanout" val="5"/>
+      <a name="incoming" val="5"/>
+    </comp>
+    <comp lib="2" loc="(740,380)" name="7-Segment Display">
+      <a name="labelvisible" val="true"/>
+    </comp>
+    <comp lib="4" loc="(680,380)" name="BCD_to_7_Segment_decoder"/>
+    <comp lib="4" loc="(690,490)" name="Binairy_to_BCD_converter">
+      <a name="binvalue" val="5"/>
+    </comp>
+    <comp lib="4" loc="(740,380)" name="BCD_to_7_Segment_decoder"/>
+    <comp lib="2" loc="(680,380)" name="7-Segment Display">
+      <a name="labelvisible" val="true"/>
+    </comp>
+    <comp lib="2" loc="(210,380)" name="7-Segment Display"/>
   </circuit>
   <circuit name="LOGIC_BLOCK">
     <a name="circuit" val="LOGIC_BLOCK"/>
@@ -459,18 +554,18 @@ This file is intended to be loaded by Logisim-evolution (https://github.com/reds
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="164" y="103">P1</text>
       <rect height="3" stroke="none" width="10" x="170" y="119"/>
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="165" y="65">P0</text>
-      <circ-port height="10" pin="370,60" width="10" x="175" y="55"/>
       <circ-port height="10" pin="350,60" width="10" x="175" y="95"/>
-      <circ-port height="10" pin="330,60" width="10" x="175" y="135"/>
       <circ-port height="10" pin="310,60" width="10" x="175" y="175"/>
-      <circ-port height="8" pin="180,60" width="8" x="46" y="196"/>
       <circ-port height="8" pin="160,60" width="8" x="46" y="176"/>
-      <circ-port height="8" pin="140,60" width="8" x="46" y="156"/>
       <circ-port height="8" pin="120,60" width="8" x="46" y="136"/>
-      <circ-port height="8" pin="80,60" width="8" x="46" y="116"/>
       <circ-port height="8" pin="60,60" width="8" x="46" y="96"/>
-      <circ-port height="8" pin="40,60" width="8" x="46" y="76"/>
       <circ-port height="8" pin="20,60" width="8" x="46" y="56"/>
+      <circ-port height="8" pin="40,60" width="8" x="46" y="76"/>
+      <circ-port height="8" pin="80,60" width="8" x="46" y="116"/>
+      <circ-port height="8" pin="140,60" width="8" x="46" y="156"/>
+      <circ-port height="8" pin="180,60" width="8" x="46" y="196"/>
+      <circ-port height="10" pin="330,60" width="10" x="175" y="135"/>
+      <circ-port height="10" pin="370,60" width="10" x="175" y="55"/>
       <rect height="3" stroke="none" width="10" x="170" y="139"/>
       <circ-port height="10" pin="410,60" width="10" x="175" y="195"/>
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="167" y="202">G3</text>
@@ -645,14 +740,14 @@ This file is intended to be loaded by Logisim-evolution (https://github.com/reds
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="155" y="64">s0</text>
       <rect height="3" stroke="none" width="10" x="160" y="79"/>
       <circ-port height="10" pin="140,70" width="10" x="165" y="55"/>
-      <circ-port height="8" pin="60,330" width="8" x="46" y="176"/>
       <circ-port height="8" pin="60,290" width="8" x="46" y="196"/>
-      <circ-port height="8" pin="60,250" width="8" x="46" y="136"/>
       <circ-port height="8" pin="60,210" width="8" x="46" y="156"/>
-      <circ-port height="8" pin="60,170" width="8" x="46" y="96"/>
       <circ-port height="8" pin="60,130" width="8" x="46" y="116"/>
-      <circ-port height="8" pin="60,90" width="8" x="46" y="56"/>
       <circ-port height="8" pin="60,50" width="8" x="46" y="76"/>
+      <circ-port height="8" pin="60,90" width="8" x="46" y="56"/>
+      <circ-port height="8" pin="60,170" width="8" x="46" y="96"/>
+      <circ-port height="8" pin="60,250" width="8" x="46" y="136"/>
+      <circ-port height="8" pin="60,330" width="8" x="46" y="176"/>
       <circ-port height="10" pin="140,150" width="10" x="165" y="75"/>
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="155" y="84">s1</text>
       <rect height="3" stroke="none" width="10" x="160" y="99"/>
@@ -747,10 +842,10 @@ This file is intended to be loaded by Logisim-evolution (https://github.com/reds
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="104" y="83">G</text>
       <rect height="3" stroke="none" width="10" x="110" y="79"/>
       <text fill="#404040" font-family="Dialog" font-size="12" text-anchor="end" x="105" y="66">P</text>
-      <circ-port height="10" pin="240,50" width="10" x="115" y="75"/>
       <circ-port height="8" pin="40,30" width="8" x="46" y="56"/>
-      <circ-port height="8" pin="40,70" width="8" x="46" y="76"/>
       <circ-port height="10" pin="240,120" width="10" x="115" y="55"/>
+      <circ-port height="8" pin="40,70" width="8" x="46" y="76"/>
+      <circ-port height="10" pin="240,50" width="10" x="115" y="75"/>
       <rect height="20" stroke="none" width="50" x="60" y="90"/>
       <rect fill="none" height="60" stroke="#000000" stroke-width="2" width="50" x="60" y="50"/>
       <text fill="#ffffff" font-family="Dialog" font-size="14" font-weight="bold" text-anchor="middle" x="85" y="104">HA</text>
